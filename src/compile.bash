@@ -1,0 +1,1 @@
+g++ connection.cpp  connectionPool.cpp  main.cpp -o main -I ../include -lpthread -lmysqlclient
